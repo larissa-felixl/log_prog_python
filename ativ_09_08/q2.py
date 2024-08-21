@@ -1,0 +1,6 @@
+n1 = int(input('Me diga um número: '))
+n2 = int(input('Me diga outro número: '))
+print(f'{n1}+{n2} = {n1+n2}')
+print(f'{n1}-{n2} = {n1-n2}')
+print(f'{n1}*{n2} = {n1*n2}')
+print(f'{n1}/{n2} = {n1/n2}')
